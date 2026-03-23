@@ -48,32 +48,32 @@ Elle intègre un environnement optimisé pour les administrateurs systèmes, ave
 📁 Arborescence du projet
 Code
 technews365OS/
- ├── iso/
- │    ├── build.sh
- │    ├── postinstall/
- │    └── branding/
- │
- ├── scripts/
- │    ├── cleanup.sh
- │    ├── install-apps.sh
- │    └── branding.sh
- │
- ├── docs/
- │    ├── install-guide.md
- │    ├── architecture.md
- │    └── changelog.md
- │
- ├── assets/
- │    ├── wallpapers/
- │    └── logos/
- │
- ├── .github/
- │    └── workflows/
- │         └── build-iso.yml
- │
- ├── LICENSE
- ├── README.md
- └── .gitignore
+  iso/
+    build.sh
+    postinstall/
+    branding/
+
+  scripts/
+    cleanup.sh
+    install-apps.sh
+    branding.sh
+
+  docs/
+    install-guide.md
+    architecture.md
+    changelog.md
+
+  assets/
+    wallpapers/
+    logos/
+
+  .github/
+    workflows/
+      build-iso.yml
+
+  LICENSE
+  README.md
+  .gitignore
 
 
 🚀 Build de l’ISO

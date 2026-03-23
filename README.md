@@ -46,7 +46,7 @@ Une distribution Linux premium, stable, documentée et pensée pour les administ
 TechNews365 OS Admin Edition est une distribution Linux personnalisée, conçue pour offrir une expérience professionnelle, stable et reproductible.
 Elle intègre un environnement optimisé pour les administrateurs systèmes, avec un branding complet, des outils d’administration préinstallés, une IA locale embarquée, et un workflow ISO entièrement automatisé.
 ✨ Fonctionnalités principales
-🔧 Pour les administrateurs systèmes
+🔧 Pour les administrateurs systèmes & réseaux.
 
     Suite d’outils Admin préinstallés (réseau, monitoring, virtualisation, sécurité)
 

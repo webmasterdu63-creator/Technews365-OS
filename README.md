@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/webmasterdu63-creator/technews365OS?label=Version&color=blue" />
+  <img src="https://img.shields.io/github/license/webmasterdu63-creator/technews365OS?label=License&color=green" />
+  <img src="https://img.shields.io/github/downloads/webmasterdu63-creator/technews365OS/total?label=Downloads&color=orange" />
+  <img src="https://img.shields.io/github/stars/webmasterdu63-creator/technews365OS?style=flat&color=yellow" />
+  <img src="https://img.shields.io/github/forks/webmasterdu63-creator/technews365OS?style=flat&color=lightgrey" />
+  <img src="https://img.shields.io/github/actions/workflow/status/webmasterdu63-creator/technews365OS/build-iso.yml?label=Build%20ISO&color=purple" />
+</p>
+
 Une distribution Linux premium, stable, documentée et pensée pour les administrateurs systèmes modernes.
 
 TechNews365 OS Admin Edition est une distribution Linux personnalisée, conçue pour offrir une expérience professionnelle, stable et reproductible.

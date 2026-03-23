@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BANNIERE_TECHNEWS365_OS.png" alt="TechNews365 OS Banner">
+  <img src="https://github.com/webmasterdu63-creator/technews365OS/blob/main/banner365.png" alt="TechNews365 OS Banner">
 </p>
 
 <p align="center">

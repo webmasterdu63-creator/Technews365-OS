@@ -24,8 +24,7 @@
   <!-- Forks -->
   <img src="https://img.shields.io/github/forks/webmasterdu63-creator/technews365OS?style=flat&color=lightgrey" />
 
-  <!-- Plateformes supportées -->
-  <img src="https://img.shields.io/badge/Plateformes-Linux%20%7C%20Arch%20%7C%20x86__64-blue?style=flat" />
+<img src="https://img.shields.io/badge/Plateformes-Linux%20%7C%20Debian%2012%20KDE%20%7C%20x86__64-blue?style=flat" />
 
   <!-- IA locale -->
   <img src="https://img.shields.io/badge/IA%20Locale-Ollama%20%7C%20OpenWebUI-9cf?style=flat" />

@@ -203,6 +203,86 @@ TechNews365 OS inclut :
 📚 Documentation
 
 Disponible dans le dossier docs/ :
+🟩 🛠️ Outils inclus – TechNews365 OS Admin Edition
+
+TechNews365 OS Admin est conçu pour les techniciens, administrateurs systèmes et ingénieurs réseau.
+Il inclut nativement :
+
+  
+    Ventoy – création de clés USB multiboot
+
+    BalenaEtcher – création d’ISO bootables
+
+    GParted – partitionnement avancé
+
+    Timeshift – sauvegarde & restauration système
+
+    FileZilla – transfert FTP/SFTP
+
+    X2Go – bureau distant
+
+    GNS3 – émulation réseau professionnelle
+
+    Docker – conteneurisation
+
+    VirtualBox – virtualisation complète
+
+    Outils réseau (nmap, traceroute, net-tools, iperf…)
+
+    Diagnostic disques (smartmontools, nvme-cli, gnome-disk-utility)
+
+    Vaultwarden – gestionnaire de mots de passe auto‑hébergé
+
+    DistroSea Launcher – test de distributions en ligne
+
+    OnlyOffice – suite bureautique
+
+    Brave - Firefox -Opera-GX 
+    🎮 Outils & logiciels inclus – TechNews365 OS Gaming Edition
+
+TechNews365 OS Gaming est optimisé pour la performance, le multimédia et le jeu vidéo.
+Il inclut :
+🎮 Plateformes & compatibilité
+
+    Steam
+
+    Lutris
+
+    Wine 64-bit + 32-bit
+
+    Winetricks
+
+    Proton (selon ton build)
+
+⚙️ Optimisation & performance
+
+    MangoHud – overlay FPS
+
+    Gamemode – optimisation CPU/GPU
+
+    OBS Studio – streaming & capture
+
+🕹️ Jeux open‑source préinstallés
+
+    Xonotic
+
+    0 A.D.
+
+    OpenRA
+
+    OpenTTD
+
+    SuperTuxKart
+
+    MAME
+
+    ScummVM
+
+    PCSX2
+
+    PPSSPP
+
+    Dolphin
 
     Guide d’installation
 

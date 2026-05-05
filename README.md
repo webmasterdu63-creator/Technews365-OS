@@ -46,7 +46,7 @@
 </p>
 
 
-# 🚀 TechNews365 OS – Distribution Linux basée sur Debian KDE
+# 🚀 TechNews365 OS – Distribution Linux basée sur Debian 12 KDE 5.27 LTS
 
 TechNews365 OS est une distribution Linux moderne, stable et performante,
 déclinée en deux éditions distinctes :

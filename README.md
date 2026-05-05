@@ -46,52 +46,71 @@
 </p>
 
 
-Une distribution Linux premium, stable, documentée et pensée pour les administrateurs systèmes modernes.
+# 🚀 TechNews365 OS – Distribution Linux basée sur Debian KDE
 
-TechNews365 OS Admin Edition est une distribution Linux personnalisée, conçue pour offrir une expérience professionnelle, stable et reproductible.
-Elle intègre un environnement optimisé pour les administrateurs systèmes, avec un branding complet, des outils d’administration préinstallés, une IA locale embarquée, et un workflow ISO entièrement automatisé.
-✨ Fonctionnalités principales
-🔧 Pour les administrateurs systèmes & réseaux.
+TechNews365 OS est une distribution Linux moderne, stable et performante,
+déclinée en deux éditions distinctes :
 
-    Suite d’outils Admin préinstallés (réseau, monitoring, virtualisation, sécurité)
+## 🟩 TechNews365 OS – Admin Edition
+Pensée pour les administrateurs systèmes & réseaux :
+- outils professionnels
+- sécurité
+- supervision
+- virtualisation
+- productivité
 
-    Scripts d’automatisation prêts à l’emploi
+## 🎮 TechNews365 OS – Gaming Edition
+Optimisée pour :
+- performance
+- fluidité
+- multimédia
+- jeux vidéo
+- expérience utilisateur moderne
 
-    Post-install complet et reproductible
+---
 
-    Support multiboot, partitionnement avancé, GRUB optimisé
+# 📥 Téléchargements officiels
 
-🤖 IA locale embarquée
+Les ISO sont disponibles sur le site officiel :  
+👉 https://technews365.fr/technews365-os-admin-and-gaming
 
-    Ollama préinstallé
+---
 
-    OpenWebUI intégré
+# 🛠️ Guide d’installation
 
-    Fonctionne hors-ligne, idéal pour les environnements sensibles
+Un guide complet est disponible sur la page officielle :
+- création de clé USB (Rufus / BalenaEtcher)
+- étapes détaillées
+- conseils de démarrage
+- dépannage
 
-    Modèles IA téléchargeables et gérables localement
+---
 
-🎨 Branding TechNews365
+# 🧩 Structure du projet
 
-    Thème complet : wallpapers, icônes, GRUB, Plymouth, LightDM/SLiM
+Ce dépôt contiendra :
+- branding (logo, fond, slideshow)
+- configuration Calamares
+- scripts post-install
+- outils Admin & Gaming
+- documentation
+- notes de version
 
-    Identité visuelle cohérente sur tout l’OS
+---
 
-    Scripts de branding reproductibles
+# 📦 Releases
 
-🏗️ Workflow ISO professionnel
+Les versions stables seront publiées ici :
+👉 https://github.com/webmasterdu63-creator/Technews365-OS/releases
 
-    Build ISO automatisé
+---
 
-    Scripts versionnés
+# 🌐 Site officiel
+https://technews365.fr
 
-    Nettoyage automatique du système avant build
-
-    Suppression de l’utilisateur créateur
-
-    Validation VM + USB
-
-    Documentation complète
+# 📣 Contact
+Projet maintenu par Jean – TechNews365
+https://technews365.fr/contact
 
 📁 Arborescence du projet
 ## 📁 Arborescence du projet

@@ -49,7 +49,135 @@
 
 TechNews365 OS est une distribution Linux moderne, stable et performante,
 déclinée en deux éditions distinctes :
+# 🤖 Guide IA — TechNews365 OS Admin 2026
 
+TechNews365 OS Admin 2026 intègre une IA locale complète, fonctionnant **100 % offline**, basée sur **Ollama**.  
+Ce guide explique comment utiliser les différentes interfaces incluses : Hollama, Open‑WebUI, Murmure et Shay.
+
+---
+
+## 🧠 Ollama — Le moteur IA local
+
+Ollama est le cœur de l’IA dans TechNews365 OS.  
+Il tourne en arrière‑plan et écoute sur :
+
+**http://localhost:11434**
+
+Il gère :
+- les modèles IA
+- l’inférence CPU/GPU (CUDA 12/13)
+- les réponses
+- les téléchargements (si Internet)
+
+### 📥 Télécharger un modèle (optionnel)
+Si vous avez Internet :
+
+```bash
+ollama pull llama3.2:3b
+⚡ Hollama — Interface ultra‑light
+
+Hollama est une interface Web minimaliste, ultra rapide, sans backend.
+Elle se connecte directement à Ollama.
+Accès :
+
+http://localhost:11434/ui
+
+Idéal pour :
+
+    tester rapidement un modèle
+
+    discuter en mode simple
+
+    interface légère et rapide
+
+🔥 Open‑WebUI — Interface complète
+
+Open‑WebUI est une interface avancée, proche de ChatGPT, avec :
+
+    historique
+
+    gestion multi‑modèles
+
+    plugins
+
+    support images / audio
+
+Connexion :
+
+Se connecte automatiquement à Ollama via :
+
+http://localhost:11434
+
+Idéal pour :
+
+    un usage quotidien
+
+    des projets IA avancés
+
+    une interface moderne et complète
+
+🎤 Murmure — Assistant vocal local
+
+Murmure permet d’utiliser l’IA à la voix, 100 % offline.
+
+Fonctionnalités :
+
+    écoute
+
+    réponse vocale
+
+    intégration Ollama
+
+    aucune connexion Internet requise
+
+Idéal pour :
+
+    un usage “assistant personnel”
+
+    des interactions naturelles
+
+💻 Shay — Assistant Terminal
+
+Shay est un assistant IA pour le terminal.
+Il comprend les commandes, explique, génère des scripts et automatise des tâches.
+Exemple :
+bash
+
+shay "crée un script bash qui sauvegarde /home"
+
+Idéal pour :
+
+    administrateurs système
+
+    développeurs
+
+    automatisation rapide
+
+🟩 Résumé rapide
+Outil	Rôle
+Ollama	Moteur IA local (CPU/GPU)
+Hollama	Interface Web simple
+Open‑WebUI	Interface complète type ChatGPT
+Murmure	Assistant vocal offline
+Shay	Assistant Terminal
+🎁 Bonus TechNews365
+
+TechNews365 OS Admin 2026 est l’une des premières distributions Linux intégrant :
+
+    une IA locale prête à l’emploi
+
+    un moteur IA offline
+
+    plusieurs interfaces IA
+
+    support CPU + GPU
+
+    assistants vocaux et terminal
+
+Vous pouvez utiliser l’IA immédiatement après installation, sans configuration.
+📄 Licence
+
+Ce guide fait partie de TechNews365 OS Admin 2026.
 ## 🟩 TechNews365 OS – Admin Edition
 Pensée pour les administrateurs systèmes & réseaux :
 - outils professionnels

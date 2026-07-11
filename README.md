@@ -43,7 +43,80 @@
   <img src="https://img.shields.io/badge/Made%20in-France-blue?style=flat&logoColor=white&labelColor=red&color=blue" />
 
 </p>
+https://php.technews365.fr/multios2/
+1. Admin AI Edition
 
+Édition Admin avec Assistant Vocal IA 100% local. Inclut outils réseau et automatisation avancée.
+→ Admin AI Edition
+2. DeepSeek R1 AI
+
+Assistant vocal IA multi‑tâches basé sur DeepSeek R1, entièrement local. Optimisé pour PC Linux TN365.
+→ DeepSeek R1 AI
+3. HOME Edition 2026
+
+TN365 HOME GNOME : rapide, léger, moderne, Kernel 7.0. Idéal pour PC fixes et portables.
+→ TN365 HOME
+4. TN365 KDE Essentials
+
+Édition KDE moderne et stable, compatible EFI universel. Interface rapide et personnalisable.
+→ TN365 KDE Essentials
+5. TN365 Maia 2026 / Mint‑KDE
+
+Distribution KDE basée sur Mint/Maia, stable, élégante et optimisée pour le quotidien.
+→ TN365 Maia
+6. TN365 OS – Admin Edition 2026
+
+Édition Admin complète avec tous les outils réseau, diagnostic et maintenance système.
+→ TN365 Admin Edition
+7. TN365 OS – KDE Gaming
+
+Distribution KDE optimisée gaming : Steam, Heroic, Lutris, MangoHud, Gamemode.
+→ TN365 Gaming
+8. TN ARM64 XFCE OS
+
+Version ARM64 XFCE : ultra‑légère, réactive, idéale pour PC ARM64 nouvelle génération.
+→ TN365 ARM64 XFCE
+9. TechNews365‑Setup (2027)
+
+Projet d’installation universelle TN365 prévu pour 2027. Automatisation et configuration simplifiée.
+→ TechNews365 Setup
+🇬🇧 TN365 Descriptions – 9 projects (2 lines each)
+1. Admin AI Edition
+
+Admin edition with a 100% local AI voice assistant. Includes advanced network and automation tools.
+→ Admin AI Edition
+2. DeepSeek R1 AI
+
+Multi‑task local AI voice assistant powered by DeepSeek R1. Optimized for TN365 Linux systems.
+→ DeepSeek R1 AI
+3. HOME Edition 2026
+
+TN365 HOME GNOME: fast, lightweight, modern, Kernel 7.0. Ideal for desktops and laptops.
+→ TN365 HOME
+4. TN365 KDE Essentials
+
+Modern and stable KDE edition with universal EFI support. Fast and highly customizable interface.
+→ TN365 KDE Essentials
+5. TN365 Maia 2026 / Mint‑KDE
+
+KDE distribution based on Mint/Maia, stable, elegant and optimized for daily use.
+→ TN365 Maia
+6. TN365 OS – Admin Edition 2026
+
+Full Admin edition with complete network tools, diagnostics and system maintenance utilities.
+→ TN365 Admin Edition
+7. TN365 OS – KDE Gaming
+
+Gaming‑optimized KDE distribution: Steam, Heroic, Lutris, MangoHud, Gamemode.
+→ TN365 Gaming
+8. TN ARM64 XFCE OS
+
+ARM64 XFCE version: ultra‑light, responsive, ideal for next‑gen ARM64 PCs.
+→ TN365 ARM64 XFCE
+9. TechNews365‑Setup (2027)
+
+Universal TN365 installer planned for 2027. Simplified configuration and automation.
+→ TechNews365 Setup
 
 # 🚀 TechNews365 OS – Distribution Linux basée sur Debian 12 KDE 5.27 LTS
 
